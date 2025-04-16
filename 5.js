@@ -11,7 +11,7 @@ var x;
 console.log(x);
 
 /* O/P - 
-    Error
+    10
 */
 
 let a = 3;

@@ -4,7 +4,7 @@ function getAge(){
     console.log(age);
 }
 
-getAge(21);
+getAge();
 /* O/P - 
     error
 */
@@ -15,7 +15,7 @@ function getAge1(){
     console.log(age);
 }
 
-getAge1(21);
+getAge1();
 /* O/P - 
     12
 */
@@ -25,7 +25,7 @@ function getAge2(){
     console.log(age);
 }
 
-getAge2(21);
+getAge2();
 /* O/P - 
     12
 */

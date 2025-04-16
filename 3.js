@@ -19,3 +19,7 @@ console.warn(typeof("SKR"));
 /* O/P - 
     string
 */
+
+var son = "101";
+window = new Window();
+console.log(window.name)
