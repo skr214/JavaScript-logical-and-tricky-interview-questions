@@ -13,7 +13,7 @@ baz();
 */
 
 const foo1 = ()=>console.log('First');
-const bar1 = ()=> setTimeout(()=>console.log("Second"));
+const bar1 = ()=> setTimeout(()=>console.log("Second"),0);
 const baz1 = ()=>console.log("Third");
 
 bar1();
